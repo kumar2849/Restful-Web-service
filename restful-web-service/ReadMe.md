@@ -1,0 +1,1 @@
+Sample Rest Api with bean and path example
